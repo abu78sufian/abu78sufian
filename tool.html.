@@ -1,12 +1,25 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Tools</title>
+  <title>Tools | Sufian</title>
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <h1>Tools</h1>
-  <p>Simple tools built with JavaScript.</p>
-  <a href="index.html">Home</a>
+
+  <div class="container">
+    <h1>Tools</h1>
+
+    <p>Small tools built in the browser.</p>
+
+    <ul>
+      <li><a href="#">Square Calculator</a></li>
+      <li><a href="#">Unit Converter</a></li>
+    </ul>
+
+    <nav>
+      <a href="index.html">Home</a>
+    </nav>
+  </div>
+
 </body>
 </html>
