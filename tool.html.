@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Tools</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>Tools</h1>
+  <p>Simple tools built with JavaScript.</p>
+  <a href="index.html">Home</a>
+</body>
+</html>
